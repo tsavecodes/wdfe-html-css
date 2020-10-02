@@ -55,6 +55,6 @@
 - `VS Code` (code editor / IDE)
 - `http-server` (development server)
 - `webpack` (compiling)
-- `git` (version control protocol)
-- `Github` (version control hosting)
+- `git` (version control)
+- `Github` (code base hosting + collaboration)
 - `Heroku` (hosting)
